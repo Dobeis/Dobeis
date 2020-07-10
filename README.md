@@ -1,4 +1,4 @@
-# My personal card - dobeis
+# my personal card - dobeis
 
 ```npx dobeis```
 
