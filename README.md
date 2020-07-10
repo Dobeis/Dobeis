@@ -1,3 +1,3 @@
 # só um sisteminha simples
 
--> ```npx dobeis``` <-
+```npx dobeis```
