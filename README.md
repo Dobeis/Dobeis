@@ -1,4 +1,4 @@
-# my personal card - dobeis
+# um sisteminha simples
 
 ```npx dobeis```
 
